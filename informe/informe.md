@@ -92,9 +92,3 @@ El diagnóstico técnico de la infraestructura de RedExpress permite identificar
 La implementación de mecanismos como **cache distribuido, redundancia de componentes críticos y escalabilidad basada en cloud** permitirá mejorar la resiliencia del sistema, optimizar su rendimiento y garantizar una experiencia confiable para los usuarios.
 
 ---
-
-# Referencias
-
-* Newman, S. (2021). *Building Microservices*. O’Reilly Media.
-* Bass, L., Clements, P., & Kazman, R. (2022). *Software Architecture in Practice*. Addison-Wesley.
-* Amazon Web Services. (2023). *AWS Well-Architected Framework*.
